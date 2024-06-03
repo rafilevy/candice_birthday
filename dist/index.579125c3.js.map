@@ -1,1 +1,0 @@
-{"mappings":"AAAA,OAAO,cAAc,GAAG;IACpB,OAAO,QAAQ,CAAC,GAAG;AACvB","sources":["src/index.js"],"sourcesContent":["window.onbeforeunload = () => {\n    window.scrollTo(0, 0);\n}"],"names":[],"version":3,"file":"index.579125c3.js.map","sourceRoot":"/__parcel_source_root/"}
